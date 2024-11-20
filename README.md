@@ -34,7 +34,7 @@
   💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/fredrik-eklund" target="_blank" rel="noreferrer">linkedin.com/in/fredrik-eklund</a>
 </p>
 
-
+<hr>
 
 <h3 align="left">Språk:</h3>
 <p align="left">
