@@ -47,3 +47,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
 </p>
+
+<h3>Utbildning / Kurser</h3>
+<a href="https://www.miun.se/utbildning/program/webbutveckling/" target"_blank">Webbutveckling på Mittuniversitetet</a><br>
+<a href="https://github.com/bayville/bayville/blob/main/courses.md" target"_blank">Mina kurser</a>
