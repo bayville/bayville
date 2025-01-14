@@ -2,7 +2,7 @@
 <h5 align="left">Fullstackutvecklare</h5>
 
 <h3>Om mig:</h3>
-<p>Studerar just nu webbutveckling på Mittuniversitet, och tar examen i juni 2025.</p>
+<p>Studerar just nu webbutveckling på Mittuniversitet, och tar examen i maj/juni 2025.</p>
 
 <h4>Senaste projekten:</h4>
 <h5>Restaurangwebbplats - Rustic Pasta</h5>
