@@ -13,6 +13,10 @@
 <p>En webbplats skapad med HTML, CSS och JavaScript. Hämtar data genom APIer från NHL och Wikipedia.</p>
 <a href="https://frek1802-dt211g-projekt.netlify.app/" target="_blank">Livedemo</a>  |  <a href="https://github.com/bayville/dt211g-projekt" target="_blank">Repo</a>
 
+<h5>Gefle Workspace - Wordpress block-tema</h5>
+<p>Ett Wordpress-tema byggt enligt Gutenbergblock-standaraden. </p>
+<a href="https://gefleworkspace.bayville.se/" target="_blank">Livedemo</a>  |  <a href="https://github.com/bayville/dt209g-projekt" target="_blank">Repo</a>
+
 <h5>Matchklocka för ishockey</h5>
 <p>En konsolapplikation skriven i C# .NET, uppfyller Svenska Ishockeyförbundets krav för matchklockor.</p>
 <a href="https://github.com/bayville/dt071g-projekt" target="_blank">Repo</a>
