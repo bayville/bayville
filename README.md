@@ -24,6 +24,9 @@
 <h5>Alla projekt</h5>
 <a href="https://github.com/bayville?tab=repositories" target="_blank">Alla projekt</a>
 
+<h5>Portfolio design</h5>
+<a href="https://www.behance.net/fredrikeklund/projects" target="_blank">Portfolio</a>
+
 <hr>
 
 <h4>Utbildning / Kurser</h4>
